@@ -1,0 +1,14 @@
+.account-info {
+  display: flex;
+  justify-content: flex-end;
+  font-family: consolas;
+}
+
+.info-container {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  margin-right: 0.5rem;
+}

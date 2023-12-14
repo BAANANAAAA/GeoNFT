@@ -1,0 +1,13 @@
+.account-info {
+  display: flex;
+  justify-content: flex-end; /* Align items to the right */
+}
+
+.info-container {
+  display: flex;
+  align-items: center; /* Center items vertically */
+}
+
+.avatar {
+  margin-right: 0.5rem; /* Adjust the margin as needed */
+}
